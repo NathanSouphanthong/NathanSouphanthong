@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nathan 👋
 
 <!--
 **NathanSouphanthong/NathanSouphanthong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About me 
+- Currently studying Systems Design Engineering at the University of Waterloo
+
+## 📬 How to Reach Me! 
+- Linkedin: https://www.linkedin.com/in/nathansouphanthong/
+- Email: nsouphan@uwaterloo.ca 
